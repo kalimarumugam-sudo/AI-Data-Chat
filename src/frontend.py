@@ -20,7 +20,7 @@ You can use this sidebar to filter and sort the data based on the columns availa
 1. **Filtering:** Show only Voice products for Destination North Region.
 2. **Sorting:** Show all rates for East Region in descending order.
 3. **Answer questions about the data:** What is the average rate for South Region and Product Voice?
-4. **Query an optional database by using business terms:** Show me rates for Apex Telecom in the database.
+4. **Aggregations:** Show the top 5 suppliers by total volume.
 
 You can also say **Reset** to clear the current filter/sort, or **Help** for more usage tips.
 """

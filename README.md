@@ -7,7 +7,6 @@ A Streamlit dashboard with a sidebar AI assistant that lets you explore tabular 
 - **Interactive dashboard** — KPIs, charts, and a filterable data table
 - **AI chat sidebar** — filter, sort, aggregate, and analyze data with natural language
 - **Local CSV analysis** — DuckDB-powered SQL over an in-memory dataset (works out of the box)
-- **Optional Oracle integration** — connect your own database for advanced queries (requires configuration)
 - **Flexible LLM backend** — OpenAI GPT-4 (default) or AWS Bedrock Claude 3.5 Sonnet
 
 ## Sample data
@@ -83,12 +82,10 @@ AI-Data-Chat/
 │   ├── frontend.py           # Streamlit UI (dashboard + chat)
 │   ├── ai_service.py         # LLM integration and query routing
 │   ├── data_loader.py        # CSV data loading
-│   ├── database_tools.py     # Optional Oracle connection
-│   └── schema_service.py     # Business dictionary support
+│   └── database_tools.py     # Optional Oracle connection (advanced)
 ├── config/                   # Database and AWS configuration
 ├── data/
-│   ├── csv/sample_rates.csv  # Synthetic demo dataset
-│   └── metadata/             # Business term mappings
+│   └── csv/sample_rates.csv  # Synthetic demo dataset
 ├── resources/prompt.md       # AI system prompt template
 └── requirements.txt
 ```
@@ -98,16 +95,6 @@ AI-Data-Chat/
 **OpenAI (default):** Set `OPENAI_API_KEY` in `.env`. No code changes needed.
 
 **AWS Bedrock:** Edit `src/ai_service.py` — comment out the OpenAI block and uncomment the Bedrock block. Configure AWS credentials in `.env`.
-
-## Optional: Oracle database
-
-Oracle support is included for teams that want to query a live database alongside the local CSV. To enable it:
-
-1. Set `ORACLE_USER`, `ORACLE_PASSWORD`, and `ORACLE_DSN` in `.env`
-2. Customize `data/metadata/business_dictionary.json` for your schema
-3. Ask questions that mention *database* or *oracle* in the chat
-
-Without Oracle credentials, the app works fully in **CSV-only mode**.
 
 ## Using your own data
 
@@ -121,7 +108,6 @@ Without Oracle credentials, the app works fully in **CSV-only mode**.
 |-------|-----|
 | CSV not found | Ensure `data/csv/sample_rates.csv` exists |
 | OpenAI errors | Verify `OPENAI_API_KEY` in `.env` |
-| Oracle connection fails | Check DSN, credentials, and network access |
 | Import errors | Run `pip install -r requirements.txt` |
 
 ## License

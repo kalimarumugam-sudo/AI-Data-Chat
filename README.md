@@ -34,7 +34,7 @@ This repository ships with **synthetic sample data** (`data/csv/sample_rates.csv
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/AI-Data-Chat.git
+git clone https://github.com/kalimarumugam-sudo/AI-Data-Chat.git
 cd AI-Data-Chat
 ```
 

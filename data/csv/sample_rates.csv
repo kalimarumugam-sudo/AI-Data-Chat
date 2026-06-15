@@ -1,0 +1,151 @@
+Destination;Supplier;Supplier Product;Product;Proportion;Sequence;Floor Price;Rate;Next Rate;Next Rate Diff;FP Diff;NID;Next Valid From;Next Valid Until;Destination Responsible;Volume
+North Region;Apex Telecom;Data-Refile;Data;5;5;0.0946;0.3655;0.4035;0.0380;0.2709;Pending Review;1/15/2024;12/31/2029;Routing Team;72482
+North Region;Bridge Networks;Premium-Voice;Data;;;0.1511;0.2091;0.1849;-0.0242;0.0580;Pending Review;1/15/2024;12/31/2029;Routing Team;86181
+West Region;Jetstream Global;Data-Refile;Voice;10;2;0.2018;0.2997;0.3046;0.0049;0.0979;Low Rate;1/15/2024;12/31/2029;Routing Team;37421
+North Region;Gateway Partners;Standard-Voice;Wholesale Bronze;;;0.2195;0.4506;0.5055;0.0549;0.2311;Equal Rate;1/15/2024;12/31/2029;Analytics Team;61217
+North Region;Ironwave Communications;Data-Refile;ISDN;5;2;0.2271;0.3856;0.3606;-0.0250;0.1585;Low Rate;1/15/2024;12/31/2029;Routing Team;10116
+South Region;Bridge Networks;Wholesale-Basic;Wholesale Bronze;10;3;0.1407;0.4409;0.4120;-0.0289;0.3002;Equal Rate;1/15/2024;12/31/2029;Commercial Team;47566
+South Region;Ironwave Communications;Premium-Voice;Data;;;0.1425;0.2735;0.3438;0.0703;0.1310;High Rate;1/15/2024;12/31/2029;Commercial Team;91198
+East Region;Apex Telecom;Premium-Voice;Voice;;;0.2110;0.3813;0.3399;-0.0414;0.1703;Low Rate;1/15/2024;12/31/2029;Routing Team;75341
+West Region;Gateway Partners;Wholesale-Basic;Data;;;0.1030;0.2270;0.2500;0.0230;0.1240;Pending Review;1/15/2024;12/31/2029;Commercial Team;35438
+West Region;Frontier Carriers;Premium-Voice;Data;10;2;0.1519;0.2292;0.1853;-0.0439;0.0773;Pending Review;1/15/2024;12/31/2029;Commercial Team;15371
+North Region;Gateway Partners;Wholesale-Basic;ISDN;;;0.2492;0.4579;0.5341;0.0762;0.2087;Equal Rate;1/15/2024;12/31/2029;Commercial Team;2504
+Central Metro;Echo Wholesale;Data-Refile;Voice;;;0.1087;0.2061;0.1565;-0.0496;0.0974;High Rate;1/15/2024;12/31/2029;Commercial Team;35522
+North Region;Keystone Routing;Data-Refile;ISDN;;;0.1718;0.2677;0.3168;0.0491;0.0959;Equal Rate;1/15/2024;12/31/2029;Commercial Team;71697
+East Region;Horizon Links;Standard-Voice;Voice;10;1;0.2358;0.5494;0.6075;0.0581;0.3136;High Rate;1/15/2024;12/31/2029;Commercial Team;41306
+North Region;Bridge Networks;Wholesale-Basic;Voice;50;5;0.2456;0.4554;0.4217;-0.0337;0.2098;High Rate;1/15/2024;12/31/2029;Analytics Team;87474
+Central Metro;Jetstream Global;Wholesale-Basic;Data;20;4;0.2358;0.5124;0.5521;0.0397;0.2766;Low Rate;1/15/2024;12/31/2029;Analytics Team;94447
+Central Metro;Horizon Links;Standard-Voice;Data;;;0.0949;0.2463;0.2728;0.0265;0.1514;High Rate;1/15/2024;12/31/2029;Routing Team;31161
+North Region;Lumen Transit;Standard-Voice;Data;10;3;0.0635;0.1229;0.1159;-0.0070;0.0594;Pending Review;1/15/2024;12/31/2029;Routing Team;68391
+Central Metro;Cascade Connect;Wholesale-Gold;ISDN;5;1;0.1445;0.4299;0.4849;0.0550;0.2854;Pending Review;1/15/2024;12/31/2029;Analytics Team;25957
+West Region;Gateway Partners;Wholesale-Basic;Voice;;;0.1847;0.5299;0.4927;-0.0372;0.3452;Low Rate;1/15/2024;12/31/2029;Routing Team;53772
+South Region;Delta Routing;Premium-Voice;ISDN;5;4;0.1397;0.3163;0.3025;-0.0138;0.1766;Equal Rate;1/15/2024;12/31/2029;Routing Team;33742
+Central Metro;Apex Telecom;Standard-Voice;Data;5;2;0.0833;0.2790;0.2568;-0.0222;0.1957;Pending Review;1/15/2024;12/31/2029;Routing Team;53565
+West Region;Echo Wholesale;Wholesale-Basic;Wholesale Bronze;;;0.1346;0.4718;0.5512;0.0794;0.3372;Pending Review;1/15/2024;12/31/2029;Routing Team;73845
+South Region;Echo Wholesale;Premium-Voice;Voice;5;5;0.1658;0.3785;0.4257;0.0472;0.2127;Pending Review;1/15/2024;12/31/2029;Commercial Team;8492
+Central Metro;Cascade Connect;Standard-Voice;ISDN;10;4;0.0660;0.1717;0.1991;0.0274;0.1057;Equal Rate;1/15/2024;12/31/2029;Commercial Team;89501
+South Region;Jetstream Global;Wholesale-Gold;Voice;20;3;0.1739;0.3497;0.3756;0.0259;0.1758;High Rate;1/15/2024;12/31/2029;Commercial Team;69522
+East Region;Delta Routing;Data-Refile;Wholesale Silver;5;4;0.0762;0.3199;0.3293;0.0094;0.2437;Equal Rate;1/15/2024;12/31/2029;Routing Team;10508
+Central Metro;Delta Routing;Wholesale-Gold;Wholesale Bronze;20;3;0.0765;0.2312;0.1901;-0.0411;0.1547;High Rate;1/15/2024;12/31/2029;Analytics Team;33018
+Central Metro;Lumen Transit;Data-Refile;ISDN;;;0.2468;0.5389;0.5577;0.0188;0.2921;Low Rate;1/15/2024;12/31/2029;Commercial Team;88538
+North Region;Cascade Connect;Data-Refile;Voice;;;0.2279;0.5006;0.4708;-0.0298;0.2727;High Rate;1/15/2024;12/31/2029;Commercial Team;37930
+East Region;Delta Routing;Data-Refile;ISDN;;;0.1477;0.4693;0.5293;0.0600;0.3216;Pending Review;1/15/2024;12/31/2029;Analytics Team;13097
+North Region;Apex Telecom;Data-Refile;Data;;;0.1774;0.3060;0.3524;0.0464;0.1286;Pending Review;1/15/2024;12/31/2029;Commercial Team;73309
+North Region;Bridge Networks;Standard-Voice;Data;50;2;0.1591;0.4595;0.4852;0.0257;0.3004;Equal Rate;1/15/2024;12/31/2029;Analytics Team;20410
+East Region;Apex Telecom;Data-Refile;Data;50;5;0.1864;0.4365;0.4325;-0.0040;0.2501;High Rate;1/15/2024;12/31/2029;Routing Team;74385
+South Region;Cascade Connect;Wholesale-Basic;Voice;;;0.0859;0.4132;0.4649;0.0517;0.3273;High Rate;1/15/2024;12/31/2029;Analytics Team;54964
+South Region;Lumen Transit;Standard-Voice;Wholesale Silver;20;3;0.2244;0.5320;0.5109;-0.0211;0.3076;High Rate;1/15/2024;12/31/2029;Routing Team;61332
+North Region;Keystone Routing;Premium-Voice;Wholesale Silver;20;5;0.1157;0.4250;0.5007;0.0757;0.3093;Pending Review;1/15/2024;12/31/2029;Commercial Team;37585
+Central Metro;Frontier Carriers;Standard-Voice;Voice;5;1;0.2254;0.3538;0.3793;0.0255;0.1284;Pending Review;1/15/2024;12/31/2029;Analytics Team;35795
+East Region;Gateway Partners;Wholesale-Gold;ISDN;;;0.0731;0.3930;0.3677;-0.0253;0.3199;Pending Review;1/15/2024;12/31/2029;Routing Team;6817
+Central Metro;Ironwave Communications;Premium-Voice;Wholesale Bronze;20;1;0.1363;0.4710;0.5407;0.0697;0.3347;Low Rate;1/15/2024;12/31/2029;Commercial Team;82678
+East Region;Keystone Routing;Wholesale-Basic;Wholesale Bronze;;;0.1305;0.2692;0.2357;-0.0335;0.1387;Pending Review;1/15/2024;12/31/2029;Commercial Team;56108
+South Region;Jetstream Global;Wholesale-Gold;Wholesale Bronze;50;5;0.1312;0.4313;0.4208;-0.0105;0.3001;Low Rate;1/15/2024;12/31/2029;Analytics Team;28549
+West Region;Horizon Links;Premium-Voice;ISDN;;;0.1446;0.4650;0.5185;0.0535;0.3204;Equal Rate;1/15/2024;12/31/2029;Analytics Team;23241
+Central Metro;Keystone Routing;Wholesale-Gold;Wholesale Bronze;10;2;0.0687;0.4043;0.3848;-0.0195;0.3356;High Rate;1/15/2024;12/31/2029;Routing Team;41687
+North Region;Delta Routing;Wholesale-Basic;ISDN;;;0.2199;0.2917;0.2956;0.0039;0.0718;High Rate;1/15/2024;12/31/2029;Commercial Team;83544
+West Region;Horizon Links;Wholesale-Basic;Data;50;2;0.0795;0.3358;0.4018;0.0660;0.2563;High Rate;1/15/2024;12/31/2029;Commercial Team;14970
+Central Metro;Horizon Links;Standard-Voice;ISDN;;;0.0998;0.4043;0.4136;0.0093;0.3045;Low Rate;1/15/2024;12/31/2029;Analytics Team;61901
+Central Metro;Lumen Transit;Wholesale-Gold;Wholesale Silver;50;3;0.2161;0.4305;0.4971;0.0666;0.2144;High Rate;1/15/2024;12/31/2029;Commercial Team;63216
+East Region;Ironwave Communications;Wholesale-Basic;Data;20;3;0.1049;0.1781;0.1652;-0.0129;0.0732;Equal Rate;1/15/2024;12/31/2029;Routing Team;36614
+South Region;Delta Routing;Wholesale-Basic;Data;50;4;0.1913;0.2606;0.2636;0.0030;0.0693;Equal Rate;1/15/2024;12/31/2029;Routing Team;72121
+West Region;Gateway Partners;Wholesale-Gold;Voice;20;3;0.2213;0.5010;0.5004;-0.0006;0.2797;Pending Review;1/15/2024;12/31/2029;Analytics Team;1772
+Central Metro;Lumen Transit;Wholesale-Gold;ISDN;5;4;0.2296;0.4261;0.4116;-0.0145;0.1965;Low Rate;1/15/2024;12/31/2029;Commercial Team;64654
+West Region;Lumen Transit;Premium-Voice;Wholesale Silver;;;0.2339;0.5781;0.5975;0.0194;0.3442;Equal Rate;1/15/2024;12/31/2029;Routing Team;52645
+West Region;Cascade Connect;Wholesale-Basic;Data;20;4;0.0601;0.2238;0.2013;-0.0225;0.1637;Low Rate;1/15/2024;12/31/2029;Analytics Team;43840
+East Region;Bridge Networks;Wholesale-Basic;Voice;;;0.1998;0.2654;0.3391;0.0737;0.0656;Equal Rate;1/15/2024;12/31/2029;Commercial Team;30389
+North Region;Apex Telecom;Premium-Voice;Data;;;0.2178;0.4542;0.4352;-0.0190;0.2364;Equal Rate;1/15/2024;12/31/2029;Commercial Team;63070
+South Region;Horizon Links;Data-Refile;Wholesale Bronze;10;3;0.0836;0.3158;0.3630;0.0472;0.2322;Equal Rate;1/15/2024;12/31/2029;Commercial Team;16012
+North Region;Echo Wholesale;Wholesale-Gold;Wholesale Silver;;;0.1293;0.3938;0.3537;-0.0401;0.2645;High Rate;1/15/2024;12/31/2029;Routing Team;91520
+East Region;Keystone Routing;Wholesale-Gold;Voice;50;3;0.2092;0.4290;0.3843;-0.0447;0.2198;Equal Rate;1/15/2024;12/31/2029;Commercial Team;70827
+East Region;Apex Telecom;Wholesale-Basic;Wholesale Silver;;;0.0711;0.4093;0.4419;0.0326;0.3382;High Rate;1/15/2024;12/31/2029;Analytics Team;61258
+South Region;Lumen Transit;Wholesale-Gold;Wholesale Bronze;50;5;0.1732;0.4991;0.5498;0.0507;0.3259;Low Rate;1/15/2024;12/31/2029;Analytics Team;61931
+South Region;Bridge Networks;Data-Refile;Wholesale Silver;20;1;0.0988;0.2882;0.3175;0.0293;0.1894;Pending Review;1/15/2024;12/31/2029;Analytics Team;50674
+South Region;Horizon Links;Premium-Voice;Wholesale Bronze;20;5;0.2096;0.3617;0.4261;0.0644;0.1521;Equal Rate;1/15/2024;12/31/2029;Commercial Team;92905
+South Region;Bridge Networks;Premium-Voice;Wholesale Silver;;;0.1477;0.4251;0.4649;0.0398;0.2774;Pending Review;1/15/2024;12/31/2029;Analytics Team;85659
+North Region;Bridge Networks;Data-Refile;Data;50;5;0.1309;0.2539;0.2902;0.0363;0.1230;Low Rate;1/15/2024;12/31/2029;Analytics Team;49368
+Central Metro;Frontier Carriers;Data-Refile;Wholesale Silver;20;1;0.1042;0.2296;0.1953;-0.0343;0.1254;High Rate;1/15/2024;12/31/2029;Routing Team;26242
+South Region;Lumen Transit;Wholesale-Basic;Wholesale Bronze;5;2;0.1949;0.5379;0.5561;0.0182;0.3430;Low Rate;1/15/2024;12/31/2029;Routing Team;38093
+East Region;Cascade Connect;Data-Refile;Voice;;;0.1916;0.2796;0.2355;-0.0441;0.0880;Low Rate;1/15/2024;12/31/2029;Commercial Team;8146
+South Region;Keystone Routing;Wholesale-Basic;Voice;20;2;0.2245;0.4467;0.4577;0.0110;0.2222;Equal Rate;1/15/2024;12/31/2029;Analytics Team;58733
+West Region;Bridge Networks;Standard-Voice;Wholesale Silver;10;5;0.1483;0.3714;0.4106;0.0392;0.2231;Low Rate;1/15/2024;12/31/2029;Routing Team;20887
+South Region;Bridge Networks;Wholesale-Gold;Wholesale Silver;50;4;0.1713;0.4585;0.4378;-0.0207;0.2872;Pending Review;1/15/2024;12/31/2029;Analytics Team;69494
+Central Metro;Gateway Partners;Data-Refile;ISDN;;;0.1742;0.4071;0.4533;0.0462;0.2329;High Rate;1/15/2024;12/31/2029;Analytics Team;28235
+North Region;Cascade Connect;Premium-Voice;Data;;;0.1604;0.2574;0.2605;0.0031;0.0970;Pending Review;1/15/2024;12/31/2029;Analytics Team;91357
+North Region;Delta Routing;Data-Refile;Wholesale Bronze;;;0.1906;0.3768;0.4162;0.0394;0.1862;High Rate;1/15/2024;12/31/2029;Analytics Team;35675
+North Region;Ironwave Communications;Premium-Voice;Data;20;5;0.2317;0.5297;0.4890;-0.0407;0.2980;Low Rate;1/15/2024;12/31/2029;Analytics Team;22747
+North Region;Horizon Links;Data-Refile;Wholesale Silver;;;0.2385;0.4386;0.4528;0.0142;0.2001;Equal Rate;1/15/2024;12/31/2029;Analytics Team;11543
+East Region;Jetstream Global;Data-Refile;Voice;;;0.0683;0.4069;0.4656;0.0587;0.3386;Equal Rate;1/15/2024;12/31/2029;Commercial Team;76392
+East Region;Jetstream Global;Standard-Voice;Data;;;0.1441;0.3896;0.4587;0.0691;0.2455;Pending Review;1/15/2024;12/31/2029;Commercial Team;24788
+West Region;Bridge Networks;Wholesale-Basic;Wholesale Bronze;20;4;0.1317;0.2780;0.2416;-0.0364;0.1463;Pending Review;1/15/2024;12/31/2029;Analytics Team;22079
+West Region;Ironwave Communications;Standard-Voice;Wholesale Silver;;;0.0676;0.1933;0.1584;-0.0349;0.1257;Equal Rate;1/15/2024;12/31/2029;Commercial Team;53976
+Central Metro;Horizon Links;Wholesale-Basic;Voice;50;1;0.0875;0.2460;0.2943;0.0483;0.1585;High Rate;1/15/2024;12/31/2029;Analytics Team;82973
+Central Metro;Cascade Connect;Data-Refile;Wholesale Silver;;;0.2262;0.4216;0.3754;-0.0462;0.1954;High Rate;1/15/2024;12/31/2029;Commercial Team;83578
+South Region;Echo Wholesale;Wholesale-Gold;Voice;50;1;0.1605;0.2385;0.3175;0.0790;0.0780;High Rate;1/15/2024;12/31/2029;Analytics Team;15871
+East Region;Ironwave Communications;Data-Refile;Wholesale Silver;10;4;0.2169;0.5610;0.5427;-0.0183;0.3441;High Rate;1/15/2024;12/31/2029;Commercial Team;73255
+Central Metro;Lumen Transit;Premium-Voice;Voice;20;1;0.1052;0.3922;0.3961;0.0039;0.2870;Low Rate;1/15/2024;12/31/2029;Commercial Team;67550
+East Region;Jetstream Global;Wholesale-Gold;Wholesale Silver;;;0.2231;0.4071;0.4201;0.0130;0.1840;Pending Review;1/15/2024;12/31/2029;Analytics Team;44573
+East Region;Delta Routing;Premium-Voice;ISDN;;;0.1266;0.4334;0.4368;0.0034;0.3068;Pending Review;1/15/2024;12/31/2029;Commercial Team;42704
+West Region;Gateway Partners;Premium-Voice;Wholesale Silver;5;4;0.2430;0.3309;0.4064;0.0755;0.0879;Equal Rate;1/15/2024;12/31/2029;Commercial Team;44515
+West Region;Apex Telecom;Premium-Voice;Wholesale Silver;20;5;0.2242;0.5652;0.5249;-0.0403;0.3410;Pending Review;1/15/2024;12/31/2029;Commercial Team;35737
+North Region;Frontier Carriers;Wholesale-Gold;Wholesale Silver;;;0.2408;0.4788;0.5442;0.0654;0.2380;Equal Rate;1/15/2024;12/31/2029;Commercial Team;64956
+North Region;Delta Routing;Data-Refile;Data;;;0.1994;0.3796;0.3424;-0.0372;0.1802;Equal Rate;1/15/2024;12/31/2029;Analytics Team;84066
+South Region;Lumen Transit;Data-Refile;Voice;50;2;0.0592;0.3480;0.3361;-0.0119;0.2888;High Rate;1/15/2024;12/31/2029;Commercial Team;50131
+West Region;Jetstream Global;Premium-Voice;Data;10;4;0.0850;0.3178;0.3175;-0.0003;0.2328;High Rate;1/15/2024;12/31/2029;Routing Team;90539
+West Region;Keystone Routing;Data-Refile;Wholesale Silver;;;0.1011;0.1539;0.2085;0.0546;0.0528;High Rate;1/15/2024;12/31/2029;Routing Team;38700
+West Region;Frontier Carriers;Wholesale-Gold;Wholesale Bronze;10;4;0.1778;0.3551;0.3376;-0.0175;0.1773;Pending Review;1/15/2024;12/31/2029;Routing Team;40599
+South Region;Gateway Partners;Wholesale-Gold;Wholesale Bronze;50;3;0.1650;0.5128;0.5012;-0.0116;0.3478;Equal Rate;1/15/2024;12/31/2029;Commercial Team;87275
+North Region;Jetstream Global;Wholesale-Basic;Wholesale Bronze;;;0.2051;0.3241;0.3784;0.0543;0.1190;High Rate;1/15/2024;12/31/2029;Commercial Team;29705
+East Region;Keystone Routing;Premium-Voice;Voice;5;5;0.2307;0.4746;0.4648;-0.0098;0.2439;Low Rate;1/15/2024;12/31/2029;Commercial Team;58779
+South Region;Bridge Networks;Data-Refile;Wholesale Bronze;20;5;0.1995;0.3022;0.2694;-0.0328;0.1027;Low Rate;1/15/2024;12/31/2029;Routing Team;71701
+East Region;Horizon Links;Data-Refile;Wholesale Bronze;;;0.2108;0.4013;0.3611;-0.0402;0.1905;Pending Review;1/15/2024;12/31/2029;Commercial Team;30571
+East Region;Bridge Networks;Wholesale-Basic;Voice;20;5;0.1029;0.1900;0.1879;-0.0021;0.0871;Pending Review;1/15/2024;12/31/2029;Commercial Team;89125
+East Region;Bridge Networks;Premium-Voice;Wholesale Silver;10;1;0.0550;0.3703;0.3933;0.0230;0.3153;Pending Review;1/15/2024;12/31/2029;Commercial Team;80964
+East Region;Keystone Routing;Wholesale-Basic;Voice;5;1;0.0780;0.4119;0.4015;-0.0104;0.3339;High Rate;1/15/2024;12/31/2029;Commercial Team;65569
+South Region;Gateway Partners;Wholesale-Basic;Wholesale Bronze;;;0.1841;0.4570;0.5300;0.0730;0.2729;High Rate;1/15/2024;12/31/2029;Analytics Team;55935
+North Region;Horizon Links;Wholesale-Gold;Wholesale Silver;50;4;0.2378;0.3717;0.4114;0.0397;0.1339;High Rate;1/15/2024;12/31/2029;Analytics Team;29477
+North Region;Keystone Routing;Data-Refile;ISDN;10;1;0.2303;0.4737;0.4316;-0.0421;0.2434;Pending Review;1/15/2024;12/31/2029;Routing Team;37160
+South Region;Keystone Routing;Wholesale-Gold;Voice;10;1;0.0601;0.2102;0.2887;0.0785;0.1501;High Rate;1/15/2024;12/31/2029;Commercial Team;75000
+South Region;Delta Routing;Data-Refile;Data;10;5;0.2077;0.4365;0.4225;-0.0140;0.2288;Low Rate;1/15/2024;12/31/2029;Routing Team;19964
+North Region;Keystone Routing;Standard-Voice;Data;5;2;0.0530;0.3400;0.3209;-0.0191;0.2870;Low Rate;1/15/2024;12/31/2029;Routing Team;43437
+South Region;Lumen Transit;Wholesale-Basic;ISDN;;;0.0727;0.1418;0.1501;0.0083;0.0691;Equal Rate;1/15/2024;12/31/2029;Analytics Team;48453
+Central Metro;Delta Routing;Wholesale-Gold;Voice;50;1;0.1954;0.5180;0.5537;0.0357;0.3226;Equal Rate;1/15/2024;12/31/2029;Analytics Team;40535
+West Region;Gateway Partners;Standard-Voice;Wholesale Silver;;;0.1925;0.3756;0.4425;0.0669;0.1831;High Rate;1/15/2024;12/31/2029;Routing Team;43219
+South Region;Echo Wholesale;Wholesale-Gold;ISDN;20;4;0.1597;0.3073;0.3866;0.0793;0.1476;Pending Review;1/15/2024;12/31/2029;Routing Team;70541
+North Region;Keystone Routing;Wholesale-Gold;Data;50;4;0.1360;0.4524;0.4562;0.0038;0.3164;Equal Rate;1/15/2024;12/31/2029;Analytics Team;60441
+West Region;Frontier Carriers;Data-Refile;Wholesale Bronze;5;1;0.2407;0.4967;0.5084;0.0117;0.2560;Pending Review;1/15/2024;12/31/2029;Routing Team;12957
+East Region;Cascade Connect;Wholesale-Gold;Voice;50;3;0.1673;0.3858;0.3787;-0.0071;0.2185;Pending Review;1/15/2024;12/31/2029;Commercial Team;17021
+North Region;Echo Wholesale;Wholesale-Gold;Wholesale Bronze;50;2;0.1203;0.3437;0.3214;-0.0223;0.2234;Equal Rate;1/15/2024;12/31/2029;Analytics Team;87079
+Central Metro;Frontier Carriers;Standard-Voice;Wholesale Bronze;;;0.1648;0.4570;0.5169;0.0599;0.2922;Equal Rate;1/15/2024;12/31/2029;Commercial Team;82490
+East Region;Apex Telecom;Premium-Voice;Wholesale Bronze;10;2;0.1905;0.3332;0.3274;-0.0058;0.1427;Pending Review;1/15/2024;12/31/2029;Routing Team;1800
+South Region;Lumen Transit;Standard-Voice;Voice;10;3;0.1992;0.3137;0.3183;0.0046;0.1145;Low Rate;1/15/2024;12/31/2029;Commercial Team;45681
+East Region;Jetstream Global;Wholesale-Gold;Voice;;;0.2267;0.3234;0.3715;0.0481;0.0967;Equal Rate;1/15/2024;12/31/2029;Analytics Team;7522
+West Region;Keystone Routing;Wholesale-Basic;Wholesale Silver;5;3;0.1714;0.3457;0.3237;-0.0220;0.1743;Pending Review;1/15/2024;12/31/2029;Routing Team;68154
+East Region;Keystone Routing;Wholesale-Gold;Wholesale Silver;5;1;0.1554;0.2979;0.2766;-0.0213;0.1425;High Rate;1/15/2024;12/31/2029;Analytics Team;79554
+South Region;Cascade Connect;Data-Refile;Wholesale Bronze;10;4;0.1156;0.1679;0.2150;0.0471;0.0523;High Rate;1/15/2024;12/31/2029;Commercial Team;24028
+Central Metro;Keystone Routing;Data-Refile;Voice;5;3;0.1294;0.4020;0.4087;0.0067;0.2726;Pending Review;1/15/2024;12/31/2029;Commercial Team;61260
+West Region;Lumen Transit;Wholesale-Basic;Wholesale Bronze;50;3;0.0730;0.1293;0.1215;-0.0078;0.0563;Equal Rate;1/15/2024;12/31/2029;Analytics Team;82018
+North Region;Delta Routing;Wholesale-Basic;ISDN;10;3;0.1301;0.2037;0.2669;0.0632;0.0736;High Rate;1/15/2024;12/31/2029;Routing Team;45500
+Central Metro;Keystone Routing;Standard-Voice;ISDN;10;2;0.1520;0.4738;0.4692;-0.0046;0.3218;Equal Rate;1/15/2024;12/31/2029;Routing Team;85599
+East Region;Delta Routing;Premium-Voice;ISDN;50;4;0.0806;0.3583;0.3181;-0.0402;0.2777;Pending Review;1/15/2024;12/31/2029;Commercial Team;83306
+Central Metro;Keystone Routing;Wholesale-Gold;Wholesale Bronze;50;4;0.2228;0.4610;0.4306;-0.0304;0.2382;Low Rate;1/15/2024;12/31/2029;Analytics Team;9950
+Central Metro;Apex Telecom;Data-Refile;ISDN;20;1;0.0648;0.2533;0.2082;-0.0451;0.1885;Equal Rate;1/15/2024;12/31/2029;Commercial Team;49331
+Central Metro;Ironwave Communications;Wholesale-Basic;Wholesale Silver;50;5;0.1661;0.5024;0.5485;0.0461;0.3363;High Rate;1/15/2024;12/31/2029;Analytics Team;6376
+Central Metro;Horizon Links;Wholesale-Gold;Data;;;0.2415;0.4267;0.4821;0.0554;0.1852;Equal Rate;1/15/2024;12/31/2029;Commercial Team;46015
+South Region;Apex Telecom;Premium-Voice;Wholesale Silver;20;3;0.2482;0.4554;0.4847;0.0293;0.2072;Pending Review;1/15/2024;12/31/2029;Analytics Team;48696
+East Region;Keystone Routing;Wholesale-Gold;Voice;;;0.2078;0.4520;0.4106;-0.0414;0.2442;Pending Review;1/15/2024;12/31/2029;Analytics Team;13387
+East Region;Lumen Transit;Wholesale-Gold;Data;20;4;0.1167;0.3415;0.3099;-0.0316;0.2248;High Rate;1/15/2024;12/31/2029;Commercial Team;46851
+North Region;Echo Wholesale;Wholesale-Gold;Wholesale Silver;;;0.1787;0.3272;0.2938;-0.0334;0.1485;Equal Rate;1/15/2024;12/31/2029;Commercial Team;93121
+West Region;Ironwave Communications;Data-Refile;Voice;10;2;0.1225;0.2266;0.2044;-0.0222;0.1041;High Rate;1/15/2024;12/31/2029;Routing Team;64736
+North Region;Echo Wholesale;Standard-Voice;ISDN;;;0.2042;0.5047;0.5696;0.0649;0.3005;Low Rate;1/15/2024;12/31/2029;Commercial Team;5947
+South Region;Jetstream Global;Wholesale-Basic;Data;;;0.0824;0.3818;0.4320;0.0502;0.2994;Pending Review;1/15/2024;12/31/2029;Routing Team;22697
+West Region;Frontier Carriers;Premium-Voice;Wholesale Silver;;;0.1721;0.4478;0.4997;0.0519;0.2757;High Rate;1/15/2024;12/31/2029;Analytics Team;31671
+West Region;Delta Routing;Data-Refile;ISDN;;;0.2469;0.4354;0.4220;-0.0134;0.1885;Pending Review;1/15/2024;12/31/2029;Routing Team;51052
+South Region;Jetstream Global;Premium-Voice;Wholesale Bronze;;;0.0604;0.2546;0.2529;-0.0017;0.1942;Equal Rate;1/15/2024;12/31/2029;Analytics Team;14446
+North Region;Cascade Connect;Data-Refile;Wholesale Silver;50;3;0.2311;0.3253;0.3322;0.0069;0.0942;Equal Rate;1/15/2024;12/31/2029;Analytics Team;30102
+North Region;Gateway Partners;Wholesale-Gold;Wholesale Bronze;20;1;0.0972;0.4456;0.4443;-0.0013;0.3484;Low Rate;1/15/2024;12/31/2029;Routing Team;4694
+South Region;Apex Telecom;Data-Refile;Wholesale Silver;;;0.1892;0.2808;0.3225;0.0417;0.0916;Equal Rate;1/15/2024;12/31/2029;Routing Team;59799
+North Region;Echo Wholesale;Premium-Voice;Data;20;2;0.1598;0.4280;0.4466;0.0186;0.2682;Low Rate;1/15/2024;12/31/2029;Routing Team;15573
+North Region;Delta Routing;Wholesale-Basic;ISDN;;;0.1414;0.2247;0.2924;0.0677;0.0833;Equal Rate;1/15/2024;12/31/2029;Commercial Team;79215
+Central Metro;Jetstream Global;Premium-Voice;Data;50;2;0.1083;0.1588;0.1547;-0.0041;0.0505;Equal Rate;1/15/2024;12/31/2029;Commercial Team;75798
+East Region;Bridge Networks;Wholesale-Gold;ISDN;50;1;0.1515;0.4980;0.5200;0.0220;0.3465;Pending Review;1/15/2024;12/31/2029;Analytics Team;52177
